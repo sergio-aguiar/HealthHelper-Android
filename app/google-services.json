@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "903783529298",
+    "firebase_url": "https://possible-cycle-270418.firebaseio.com",
+    "project_id": "possible-cycle-270418",
+    "storage_bucket": "possible-cycle-270418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903783529298:android:a5b7f950fc6d803f1a188b",
+        "android_client_info": {
+          "package_name": "pt.ua.aguiar.sergio.health_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903783529298-g6c7cshh2f4ql6ucv7opg0l2n3saviaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABH2WqilfPKcs4Br74iYHU5FOKLGmawCY"
+        },
+        {
+          "current_key": "AIzaSyCdwAPLbfT_7V3GdZeZSrqOoQQI5QwZrtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903783529298-g6c7cshh2f4ql6ucv7opg0l2n3saviaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903783529298:android:499d97247852a11a1a188b",
+        "android_client_info": {
+          "package_name": "pt.ua.aguiar.sergio.healthhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903783529298-3g461hqpcq04q3rf3524d58sq080441i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.ua.aguiar.sergio.healthhelper",
+            "certificate_hash": "5691575944972903ed8da5116a5bc9238e00830e"
+          }
+        },
+        {
+          "client_id": "903783529298-g6c7cshh2f4ql6ucv7opg0l2n3saviaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABH2WqilfPKcs4Br74iYHU5FOKLGmawCY"
+        },
+        {
+          "current_key": "AIzaSyCdwAPLbfT_7V3GdZeZSrqOoQQI5QwZrtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903783529298-g6c7cshh2f4ql6ucv7opg0l2n3saviaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

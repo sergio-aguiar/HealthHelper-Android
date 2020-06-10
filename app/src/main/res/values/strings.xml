@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HealthHelper</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="main_page_logo">MainPageLogo</string>
+    <string name="app_bar_back_button">App bar back button.</string>
+    <string name="sign_in_data">Sign In Data</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_data">Register Data</string>
+    <string name="tracking">Tracking</string>
+    <string name="favorites">Favorites</string>
+    <string name="past_data">Past Data</string>
+    <string name="moving">Moving</string>
+    <string name="placeholder_time">-:--:--</string>
+    <string name="stopped">Stopped</string>
+    <string name="loading">Loading</string>
+    <string name="sedentary_ratio">Sedentary Ratio</string>
+    <string name="marker">Marker</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
