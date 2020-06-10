@@ -1,5 +1,3 @@
-##### HealthHelper
-
 ## Existing logins
 Any user can create a new login by simply providing an email and a password.
 If a user would rather already have some data to view, they can use the login email 'test@ua.pt' with the password 'testing'.
